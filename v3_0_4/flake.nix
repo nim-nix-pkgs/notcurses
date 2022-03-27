@@ -11,6 +11,7 @@
   inputs.src-notcurses-v3_0_4.ref   = "refs/tags/v3.0.4";
   inputs.src-notcurses-v3_0_4.owner = "michaelsbradleyjr";
   inputs.src-notcurses-v3_0_4.repo  = "nim-notcurses";
+  inputs.src-notcurses-v3_0_4.dir   = "";
   inputs.src-notcurses-v3_0_4.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";

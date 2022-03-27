@@ -11,6 +11,7 @@
   inputs.src-notcurses-master.ref   = "refs/heads/master";
   inputs.src-notcurses-master.owner = "michaelsbradleyjr";
   inputs.src-notcurses-master.repo  = "nim-notcurses";
+  inputs.src-notcurses-master.dir   = "";
   inputs.src-notcurses-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
